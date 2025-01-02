@@ -22,7 +22,7 @@
     }
   , "autoload": {
         "psr-4": {
-            "AliMousavi\\Ratchet\\": "src/Ratchet"
+            "Ratchet\\": "src/Ratchet"
         }
     }
   , "require": {
