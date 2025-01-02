@@ -1,9 +1,9 @@
 {
-    "name": "cboden/ratchet"
+    "name": "alimousavi/ratchet"
   , "type": "library"
   , "description": "PHP WebSocket library"
   , "keywords": ["WebSockets", "Server", "Ratchet", "Sockets", "WebSocket"]
-  , "homepage": "http://socketo.me"
+  , "homepage": "https://github.com/alimousavidev/ratchet"
   , "license": "MIT"
   , "authors": [
         {
@@ -22,7 +22,7 @@
     }
   , "autoload": {
         "psr-4": {
-            "Ratchet\\": "src/Ratchet"
+            "AliMousavi\\Ratchet\\": "src/Ratchet"
         }
     }
   , "require": {
